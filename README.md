@@ -14,6 +14,6 @@ Librerías utilizadas
   1. BeautifulSoup:
   
 Para usar la librería es necesario instalar e importar:
-  1. pip install beautifulsoup4
+  1. $pip install beautifulsoup4
   2. from bs4 import BeautifulSoup
   3. from urllib.request import urlopen
