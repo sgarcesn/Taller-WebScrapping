@@ -3,7 +3,9 @@
 Grupo #2 Ingrantes:
 
 Yuli Tatiana Infante Ruiz
+
 Edwin Felipe Franco Sanchez
+
 Sergio Octavio Garcés Nieto
 
 Objetivo: Codigo que nos permita extraer información de la web para ser usada en el Proyecto PySearch
